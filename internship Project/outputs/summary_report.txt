@@ -1,0 +1,8 @@
+Total Complaints: 427
+Average Resolution Time (days): 0.66
+Max Resolution Time: 4.88
+Min Resolution Time: 0.0
+SLA Breaches (>3 days): 8
+Complaints >5 days: 0
+Unique Customers: 52
+Circles Covered: 1
